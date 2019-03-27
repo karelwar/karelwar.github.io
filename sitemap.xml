@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:32839/categories/</loc>
+    <loc>https://karelwar.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:32839/</loc>
+    <loc>https://karelwar.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:32839/tags/</loc>
+    <loc>https://karelwar.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
